@@ -13,7 +13,6 @@ Install create-react-app npm package globally. This will help to easily run the 
 ```bash
 npm install -g create-react-app
 ```
-n
 
 ## Cloning and Running the Application in local
 
